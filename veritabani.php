@@ -1,0 +1,1 @@
+Veritabanı sınıfı bu sayfada olacak!!
